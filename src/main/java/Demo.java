@@ -4,6 +4,6 @@ public class Demo {
      * @param args arguments.
      */
     public static void main(String[] args) {
-        System.out.println("Hello, Fish edited");
+        System.out.println("Hello, Dog and fish edited");
     }
 }
