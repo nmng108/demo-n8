@@ -8,6 +8,7 @@
 git add <ten_file> / .
 git commit -m "detail mesage"
 git push
+1. -u
 
 ## branches
 1. master -> chạy đúng
