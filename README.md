@@ -8,3 +8,8 @@
 git add <ten_file> / .
 git commit -m "detail mesage"
 git push
+
+## branches
+1. master -> chạy đúng
+2. dev (sửa lỗi tích hợp)
+3. dev-huyen, feature/login
